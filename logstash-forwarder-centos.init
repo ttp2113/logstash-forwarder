@@ -1,11 +1,7 @@
 #! /bin/sh
 # Modified startup script
-# Tony P. @ Columbia University Libraries
+# Tony P.
 # 06-23-2014
-# Originally from The Logstash Book
-# The original of this file can be found at: http://logstashbook.com/code/index.html
-#
-# logstash-forwarder Start/Stop logstash-forwarder
 #
 # chkconfig: 345 99 99
 # description: logstash-forwarder
